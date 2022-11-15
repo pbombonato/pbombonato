@@ -20,4 +20,4 @@ No início de 2022, programei pela primeira vez e descobri que sou apaixonado po
 
 :bar_chart: Estatísticas do GitHub
 
-![pbombonato's github stats](https://github-readme-stats.vercel.app/api?username=pbombonato&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=8A34D9&text_color=FFFFFF)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbombonato&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=8A34D9&text_color=FFFFFF)
+![pbombonato's github stats](https://github-readme-stats.vercel.app/api?username=pbombonato&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbombonato&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
