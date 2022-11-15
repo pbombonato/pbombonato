@@ -1,4 +1,4 @@
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=pbombonato&color=blueviolet&style=flat-square)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=pbombonato&color=002B36&style=flat-square)
 
 :wave: Olá, eu sou Pablo Bombonato. 
 
