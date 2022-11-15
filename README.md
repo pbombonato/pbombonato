@@ -2,7 +2,7 @@
 
 :wave: Olá, eu sou Pablo Bombonato. 
 
-No início de 2022, programei pela primeira vez e descobri que sou apaixonado por isso. Desde então, tenho estudado todos os dias (sem exceções) para aprender desenvolvimento web. Estou fazendo um curso de Desenvolvimento Web Moderno na Udemy, mas sou curioso e frequentemente procuro conteúdo de outras fontes para desenvolver novas habilidades e implementar soluções mais eficazes aos meus projetos. 
+Sou técnico em comunicação visual e sempre fui apaixonado por tecnologia. Em todas as oportunidades que tive, busquei usar a tecnologia para tornar o trabalho mais eficiente e trazer melhores resultados. No início de 2022, enquanto buscava usar a tecnologia para melhorar o processo de coleta de dados de um projeto de pesquisa, programei pela primeira vez e fiquei surpreso com o poder que a programação nos dá para transformar o mundo e alcançar nossos objetivos. Desde então, tenho estudado todos os dias (sem exceções) para aprender desenvolvimento web. Estou fazendo um curso de Desenvolvimento Web Moderno na Udemy, mas sou curioso e frequentemente procuro conteúdo de outras fontes para desenvolver novas habilidades e implementar soluções mais eficazes aos meus projetos. 
 
 🔭 Estou aberto a oportunidades de trabalho em Desenvolvimento Web Front-End!
 
