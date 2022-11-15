@@ -12,7 +12,7 @@ No início de 2022, programei pela primeira vez e descobri que sou apaixonado po
 
 :rocket: Estou usando essas ferramentas:
 
-&ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)&ensp;![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=Webpack)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
+&ensp;![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-6C3472?style=flat-square&logo=github)&ensp;![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=Webpack)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 
 📫 Como me contatar:
 
@@ -20,4 +20,4 @@ No início de 2022, programei pela primeira vez e descobri que sou apaixonado po
 
 :bar_chart: Estatísticas do GitHub
 
-![pbombonato's github stats](https://github-readme-stats.vercel.app/api?username=pbombonato&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbombonato&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+![pbombonato's github stats](https://github-readme-stats.vercel.app/api?username=pbombonato&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=8A34D9&text_color=FFFFFF)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbombonato&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=8A34D9&text_color=FFFFFF)
