@@ -1,4 +1,6 @@
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=pbombonato&color=002B36&style=flat-square)
+![Badge Codewars](https://www.codewars.com/users/pbombonato/badges/micro)<br><br>
+
 
 👋 Olá, eu sou Pablo Bombonato. 
 
@@ -12,7 +14,7 @@ Sou técnico em comunicação visual e sempre fui apaixonado por tecnologia. Em 
 
 Desenvolvimento Web: 
 
-&ensp;![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-6C3472?style=flat-square&logo=github)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)&ensp;![HTML5](https://img.shields.io/badge/-HTML5-FFF?style=flat-square&logo=HTML5)&ensp;![CSS3](https://img.shields.io/badge/-CSS3-0170ba?style=flat-square&logo=CSS3)&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![express.js](https://img.shields.io/badge/-express.js-89bb3c?style=flat-square&logo=Express)&ensp;![Gulp](https://img.shields.io/badge/-Gulp-fff?style=flat-square&logo=gulp)&ensp;![Babel JS](https://img.shields.io/badge/-Babel.JS-323330?style=flat-square&logo=babel)
+&ensp;![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-6C3472?style=flat-square&logo=github)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VSCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)&ensp;![HTML5](https://img.shields.io/badge/-HTML5-FFF?style=flat-square&logo=HTML5)&ensp;![CSS3](https://img.shields.io/badge/-CSS3-0170ba?style=flat-square&logo=CSS3)&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![express.js](https://img.shields.io/badge/-express.js-89bb3c?style=flat-square&logo=Express)&ensp;![Gulp](https://img.shields.io/badge/-Gulp-fff?style=flat-square&logo=gulp)&ensp;![Babel JS](https://img.shields.io/badge/-Babel.JS-323330?style=flat-square&logo=babel)
 
 
 
@@ -40,6 +42,7 @@ Web Scraping/Automações:
 
 <hr>
 
-:bar_chart: Estatísticas do GitHub
+:bar_chart: Estatísticas do GitHub e Codewars
+
 
 <img alt="pbombonato's github stats" height=150 width=350 src="https://github-readme-stats.vercel.app/api?username=pbombonato&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF"/>&ensp;&ensp;<img alt="Top Langs" height=150 width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbombonato&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF"/>
