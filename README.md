@@ -40,9 +40,10 @@ Web Scraping/Automações:
 
 &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:pablobombonato14@gmail.com)&ensp;[![Blog](https://img.shields.io/badge/-LinkedIn-0170ba?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablobombonato/)
 
-<hr>
+<!-- <hr>
 
 :bar_chart: Estatísticas do GitHub e Codewars
 
 
 <img alt="pbombonato's github stats" height=150 width=350 src="https://github-readme-stats.vercel.app/api?username=pbombonato&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF"/>&ensp;&ensp;<img alt="Top Langs" height=150 width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbombonato&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF"/>
+ -->
