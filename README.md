@@ -1,5 +1,5 @@
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=pbombonato&color=002B36&style=flat-square)
-![Badge Codewars](https://www.codewars.com/users/pbombonato/badges/micro)<br><br>
+<!-- ![Badge Codewars](https://www.codewars.com/users/pbombonato/badges/micro)<br><br> -->
 
 
 👋 Olá, eu sou Pablo Bombonato. 
