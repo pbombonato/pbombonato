@@ -16,22 +16,22 @@ Desenvolvimento Web:
 
 Web Scraping/Automações: 
 
-&ensp;![Python](https://img.shields.io/badge/-Python-bbb?style=flat-square&logo=python)&ensp;![Selenium](https://img.shields.io/badge/-Selenium-bbb?style=flat-square&logo=Selenium)
+![Python](https://img.shields.io/badge/-Python-bbb?style=flat-square&logo=python)&ensp;![Selenium](https://img.shields.io/badge/-Selenium-bbb?style=flat-square&logo=Selenium)
 
 <hr>
 
 🌱 Estou aprendendo:
 
-&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)
 
 <hr>
 
 ▶️ Meus próximos passos:
 
-&ensp;![jQuery](https://img.shields.io/badge/-jQuery-000?style=flat-square&logo=jquery)&ensp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat-square&logo=bootstrap)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat-square&logo=typescript)&ensp;![Next.JS](https://img.shields.io/badge/-Next.JS-000?style=flat-square&logo=next.js)&ensp;![Puppeteer](https://img.shields.io/badge/-Puppeteer-fff?style=flat-square&logo=puppeteer)
+![jQuery](https://img.shields.io/badge/-jQuery-000?style=flat-square&logo=jquery)&ensp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat-square&logo=bootstrap)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat-square&logo=typescript)&ensp;![Next.JS](https://img.shields.io/badge/-Next.JS-000?style=flat-square&logo=next.js)&ensp;![Puppeteer](https://img.shields.io/badge/-Puppeteer-fff?style=flat-square&logo=puppeteer)
 
 <hr>
 
 📫 Como me contatar:
 
-&ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:pablobombonato14@gmail.com)&ensp;[![Linkedin](https://img.shields.io/badge/-LinkedIn-0170ba?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablobombonato/)
+[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:pablobombonato14@gmail.com)&ensp;[![Linkedin](https://img.shields.io/badge/-LinkedIn-0170ba?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablobombonato/)
