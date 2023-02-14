@@ -8,7 +8,7 @@ I'm a <b>junior frontend developer</b> specialized in <b>React and Typescript</b
 
 ➡️ [Click here to check out my portfolio!](https://www.pbombonato.com) ⬅️
 
-⭐ Main Tech Stack:
+⭐ Main tech stack:
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat-square&logo=typescript)&ensp;![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=Webpack)
 
